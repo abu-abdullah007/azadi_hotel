@@ -1,4 +1,4 @@
-import Header from "@/components/assets/Header";
+import Header from "@/components/organisms/Header";
 
 export default function Home() {
   return (

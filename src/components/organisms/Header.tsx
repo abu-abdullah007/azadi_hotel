@@ -1,8 +1,8 @@
-import Hamburger from "./Hamburger";
-import Human from "./Human";
-import Language from "./Language";
-import Logo from "./Logo";
-import Phone from "./Phone";
+import Hamburger from "../assets/Hamburger";
+import Human from "../assets/Human";
+import Language from "../assets/Language";
+import Logo from "../assets/Logo";
+import Phone from "../assets/Phone";
 
 export default function Header() {
     const navitem = ['ارتباط با ما', 'رویداد ها', 'راهنمای گردشگری تهران', 'امکانات و خدمات']
